@@ -1,0 +1,8 @@
+{
+  "name": "air-visual",
+  "app_id": "0a2d1eec",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
